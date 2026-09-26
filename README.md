@@ -7,6 +7,7 @@ l'application Google Cloud **Mon IA** (projet `deuxieme-cerveau`) :
 | --- | --- |
 | `index.html` | URL de la page d'accueil |
 | `confidentialite.html` | URL de la politique de confidentialité |
+| `conditions.html` | URL des conditions d'utilisation |
 
 `.nojekyll` empêche GitHub Pages de passer le dossier dans Jekyll.
 
